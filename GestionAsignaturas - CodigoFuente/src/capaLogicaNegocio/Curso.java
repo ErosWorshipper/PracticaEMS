@@ -13,7 +13,7 @@ public class Curso {
 
     private static int curso_actual;
     private int cod_curso;
-    private int actual = 0;
+    private int actual = 1;
 
 
     /** Crea un nuevo curso.
